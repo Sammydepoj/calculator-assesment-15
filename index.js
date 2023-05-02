@@ -5,8 +5,6 @@ let buttons = document.querySelectorAll(".btn");
 
 let clear = document.getElementById("clear");
 
-// console.log(buttons);
-
 for (let i = 0; i < buttons.length; i++) {
   let self = buttons[i];
 
